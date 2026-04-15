@@ -17,10 +17,9 @@ Power BI
 Orange (Data Mining)
 
 🔍 My Role:
-As part of a collaborative team, I contributed to: 
-1.Performing Exploratory Data Analysis (EDA):
-My responsibilities included analyzing relationships within the dataset, such as examining category-to-category interactions, assessing how numerical variables change across different categories, and identifying correlations between numeric features. I also performed visual analysis using scatter plots and heatmaps to better understand multivariate relationships, and investigated rare categories that could impact model performance or insights
-2.Supporting dashboard structure (Power BI)
+I contributed to: 
+1.Performing Exploratory Data Analysis (EDA): My responsibilities included analyzing relationships within the dataset, such as examining category-to-category interactions, assessing how numerical variables change across different categories, and identifying correlations between numeric features. I also performed visual analysis using heatmaps to better understand multivariate relationships, and investigated rare categories that could impact model performance or insights.
+2.Assisted in building a dashboard using Power BI
 
 
 📈 Key Insights
